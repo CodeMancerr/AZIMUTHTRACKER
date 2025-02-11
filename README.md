@@ -1,4 +1,7 @@
 # Azimuth Tracker
+| Gambar 1 | Gambar 2 |
+|----------|----------|
+| ![](assets/images/az_tracker1.jpg) | ![](assets/images/az_tracker2.jpg) |
 
 ## 📌 Deskripsi
 **Azimuth Tracker** adalah aplikasi berbasis Flutter yang memungkinkan pengguna untuk melacak dan menampilkan pergerakan mereka di dalam **map tiles** secara real-time. Aplikasi ini dirancang untuk menampilkan jalur perjalanan dari lokasi awal ke lokasi tujuan dengan cara yang sederhana dan intuitif.
